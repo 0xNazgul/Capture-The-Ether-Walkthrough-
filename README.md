@@ -1,5 +1,5 @@
 # Capture The Ether Walkthrough
-
+**NOT DONE YET WILL UPDATE AS I GO** <br></br>
 Here is a walkthrough for [Capture The Ether challenges.](https://capturetheether.com/) Would highly recommend that you do it on your own until you want to smash your monitors. **DON'T, smash your monitor** then come back to this for help getting unstuck and go back to figure out the next parts.
 <br></br>
 
